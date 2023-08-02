@@ -7,6 +7,7 @@ Feature:
 
 * Tambah lontong
 * Mengurangi lontong
+* Menambah kupang sesuai selera
 
 Fix issue:
 
