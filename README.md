@@ -7,6 +7,11 @@ Feature:
 
 * Tambah lontong
 * Mengurangi lontong
+* Menambah kupang sesuai selera
+
+Before major release:
+
+* Menambah toping tahu
 
 Fix issue:
 
