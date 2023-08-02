@@ -16,3 +16,5 @@ Before major release:
 Fix issue:
 
 * Tidak bisa mengurangi jika tidak ada lontong
+
+* Solve notifikasi tidak jalan ketika ada request toping
