@@ -7,3 +7,7 @@ Feature:
 
 * Tambah lontong
 * Mengurangi lontong
+
+Fix issue:
+
+* Tidak bisa mengurangi jika tidak ada lontong
